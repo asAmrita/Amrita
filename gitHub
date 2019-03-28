@@ -1,0 +1,12 @@
+//ckeck if git  installed
+git --version
+// if not installed the install
+sudo apt-get install git
+//start the git repository
+git init
+//gives status of all files in this folder
+git status
+//stage change for commiting
+git add *
+//commit
+git commit
